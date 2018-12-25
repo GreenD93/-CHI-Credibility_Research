@@ -57,7 +57,7 @@ The purpose of this paper is to understand the factors in-volved when a human ju
 *	31\. Herbert Simon. 1957.  Abehavioral model of rational choice.Modelsof man, social and rational: Mathematical essays on rational humanbehavior in a social setting(1957).
 *	32\. Hyeonjin Soh. 2013.   Attributes of trusted blog contents: throughanalysis of product-reviews in powerblogs and consumer survey.TheJournal of the Korea Contents Association13, 1 (2013), 73–82.
 *	33\. Gianluca Stringhini, Christopher Kruegel, and Giovanni Vigna. 2010.Detecting spammers on social networks. InProceedings of the 26thannual computer security applications conference. ACM, 1–9.
-*	34\. eter M Visscher, Jian Yang, and Michael E Goddard. 2010. A commen-tary on âĂŸcommon SNPs explain a large proportion of the heritabilityfor human heightâĂŹby Yang et al.(2010).Twin Research and HumanGenetics13, 6 (2010), 517–524.
+*	34\. Peter M Visscher, Jian Yang, and Michael E Goddard. 2010. A commen-tary on ’common SNPs explain a large proportion of the heritability forhuman height’by Yang et al.(2010).Twin Research and Human Genetics13, 6 (2010), 517–524
 *	35\. Yingxu Wang and Vincent Chiew. 2010. On the cognitive process ofhuman problem solving.Cognitive systems research11, 1 (2010), 81–92.
 *	36\. Debbie Weil. 2006.The corporate blogging book. Piatkus.
 *	37\. Sung-Un Yang and Joon Soo Lim. 2009. The effects of blog-mediatedpublic relations (BMPR) on relational trust.Journal of Public RelationsResearch21, 3 (2009), 341–359.
