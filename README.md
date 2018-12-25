@@ -15,6 +15,7 @@ The purpose of this paper is to understand the factors in-volved when a human ju
 
 *	RQ: What is a reader's cognitive processing of information credibility in blogs and how does the understanding of such processing influence a computational analysis of information credibility in blogs?
 
+![Alt text](./Img/Credibility_ERD.png "Credibility_ERD")
 
 ## Data Set
 *	Naver
@@ -61,10 +62,3 @@ The purpose of this paper is to understand the factors in-volved when a human ju
 *	36\. Debbie Weil. 2006.The corporate blogging book. Piatkus.
 *	37\. Sung-Un Yang and Joon Soo Lim. 2009. The effects of blog-mediatedpublic relations (BMPR) on relational trust.Journal of Public RelationsResearch21, 3 (2009), 341–359.
 *	38\. Yiming Yang and Jan O Pedersen. 1997. A comparative study on featureselection in text categorization. InIcml, Vol. 97. 412–420.
-
-
-
-
-
-
-![Alt text](./Img/Credibility_ERD.png "Credibility_ERD")
