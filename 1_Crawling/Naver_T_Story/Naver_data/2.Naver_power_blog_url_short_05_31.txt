@@ -1,0 +1,246 @@
+url,parent,child
+2008&parentGroupNo=1&childGroupNo=9,문화·예술 리뷰,책
+2008&parentGroupNo=1&childGroupNo=10,문화·예술 리뷰,영화
+2008&parentGroupNo=1&childGroupNo=11,문화·예술 리뷰,음악
+2008&parentGroupNo=1&childGroupNo=12,문화·예술 리뷰,공연·전시·문화·예술
+2008&parentGroupNo=1&childGroupNo=13,문화·예술 리뷰,미술·디자인
+2008&parentGroupNo=1&childGroupNo=15,문화·예술 리뷰,드라마·방송
+2008&parentGroupNo=1&childGroupNo=16,문화·예술 리뷰,만화·애니
+2008&parentGroupNo=1&childGroupNo=17,문화·예술 리뷰,게임
+2008&parentGroupNo=2&childGroupNo=18,여행·레저·지역,여행
+2008&parentGroupNo=2&childGroupNo=19,여행·레저·지역,캠핑
+2008&parentGroupNo=2&childGroupNo=20,여행·레저·지역,등산·낚시·레저
+2008&parentGroupNo=2&childGroupNo=21,여행·레저·지역,지역·해외생활
+2008&parentGroupNo=3&childGroupNo=22,맛집·식도락,맛집
+2008&parentGroupNo=3&childGroupNo=23,맛집·식도락,와인-술
+2008&parentGroupNo=3&childGroupNo=24,맛집·식도락,차·커피·디저트
+2008&parentGroupNo=4&childGroupNo=25,사진·창작·수집,사진
+2008&parentGroupNo=4&childGroupNo=26,사진·창작·수집,웹툰·페인팅·일러스트
+2008&parentGroupNo=4&childGroupNo=28,사진·창작·수집,자필문학·에세이
+2008&parentGroupNo=4&childGroupNo=29,사진·창작·수집,토이·모형·수집
+2008&parentGroupNo=5&childGroupNo=30,IT·스포츠·자동차,IT·웹·프로그램
+2008&parentGroupNo=5&childGroupNo=32,IT·스포츠·자동차,스포츠
+2008&parentGroupNo=5&childGroupNo=33,IT·스포츠·자동차,자동차
+2008&parentGroupNo=5&childGroupNo=34,IT·스포츠·자동차,철도·항공·교통
+2008&parentGroupNo=5&childGroupNo=35,IT·스포츠·자동차,음향·영상
+2008&parentGroupNo=6&childGroupNo=36,학술·시사·경제·교육,시사-인문-경제
+2008&parentGroupNo=6&childGroupNo=38,학술·시사·경제·교육,교육·외국어
+2008&parentGroupNo=6&childGroupNo=39,학술·시사·경제·교육,과학·자연관찰
+2008&parentGroupNo=7&childGroupNo=40,일상·육아·자연,일상
+2008&parentGroupNo=7&childGroupNo=41,일상·육아·자연,육아
+2008&parentGroupNo=7&childGroupNo=42,일상·육아·자연,애완·반려동물
+2008&parentGroupNo=7&childGroupNo=43,일상·육아·자연,원예·재배
+2008&parentGroupNo=8&childGroupNo=44,요리·인테리어·DIY·뷰티,요리
+2008&parentGroupNo=8&childGroupNo=45,요리·인테리어·DIY·뷰티,가구·인테리어
+2008&parentGroupNo=8&childGroupNo=46,요리·인테리어·DIY·뷰티,생활공예
+2008&parentGroupNo=8&childGroupNo=47,요리·인테리어·DIY·뷰티,패션·뷰티
+2009&parentGroupNo=1&childGroupNo=9,문화·예술 리뷰,책
+2009&parentGroupNo=1&childGroupNo=10,문화·예술 리뷰,영화
+2009&parentGroupNo=1&childGroupNo=11,문화·예술 리뷰,음악
+2009&parentGroupNo=1&childGroupNo=12,문화·예술 리뷰,공연·전시·문화·예술
+2009&parentGroupNo=1&childGroupNo=13,문화·예술 리뷰,미술·디자인
+2009&parentGroupNo=1&childGroupNo=15,문화·예술 리뷰,드라마·방송
+2009&parentGroupNo=1&childGroupNo=16,문화·예술 리뷰,만화·애니
+2009&parentGroupNo=1&childGroupNo=17,문화·예술 리뷰,게임
+2009&parentGroupNo=2&childGroupNo=18,여행·레저·지역,여행
+2009&parentGroupNo=2&childGroupNo=19,여행·레저·지역,캠핑
+2009&parentGroupNo=2&childGroupNo=20,여행·레저·지역,등산·낚시·레저
+2009&parentGroupNo=2&childGroupNo=21,여행·레저·지역,지역·해외생활
+2009&parentGroupNo=3&childGroupNo=22,맛집·식도락,맛집
+2009&parentGroupNo=3&childGroupNo=23,맛집·식도락,와인-술
+2009&parentGroupNo=3&childGroupNo=24,맛집·식도락,차·커피·디저트
+2009&parentGroupNo=4&childGroupNo=25,사진·창작·수집,사진
+2009&parentGroupNo=4&childGroupNo=26,사진·창작·수집,웹툰·페인팅·일러스트
+2009&parentGroupNo=4&childGroupNo=28,사진·창작·수집,자필문학·에세이
+2009&parentGroupNo=4&childGroupNo=29,사진·창작·수집,토이·모형·수집
+2009&parentGroupNo=5&childGroupNo=30,IT·스포츠·자동차,IT·웹·프로그램
+2009&parentGroupNo=5&childGroupNo=32,IT·스포츠·자동차,스포츠
+2009&parentGroupNo=5&childGroupNo=33,IT·스포츠·자동차,자동차
+2009&parentGroupNo=5&childGroupNo=34,IT·스포츠·자동차,철도·항공·교통
+2009&parentGroupNo=5&childGroupNo=35,IT·스포츠·자동차,음향·영상
+2009&parentGroupNo=6&childGroupNo=36,학술·시사·경제·교육,시사-인문-경제
+2009&parentGroupNo=6&childGroupNo=38,학술·시사·경제·교육,교육·외국어
+2009&parentGroupNo=6&childGroupNo=39,학술·시사·경제·교육,과학·자연관찰
+2009&parentGroupNo=7&childGroupNo=40,일상·육아·자연,일상
+2009&parentGroupNo=7&childGroupNo=41,일상·육아·자연,육아
+2009&parentGroupNo=7&childGroupNo=42,일상·육아·자연,애완·반려동물
+2009&parentGroupNo=7&childGroupNo=43,일상·육아·자연,원예·재배
+2009&parentGroupNo=8&childGroupNo=44,요리·인테리어·DIY·뷰티,요리
+2009&parentGroupNo=8&childGroupNo=45,요리·인테리어·DIY·뷰티,가구·인테리어
+2009&parentGroupNo=8&childGroupNo=46,요리·인테리어·DIY·뷰티,생활공예
+2009&parentGroupNo=8&childGroupNo=47,요리·인테리어·DIY·뷰티,패션·뷰티
+2010&parentGroupNo=1&childGroupNo=9,문화·예술 리뷰,책
+2010&parentGroupNo=1&childGroupNo=10,문화·예술 리뷰,영화
+2010&parentGroupNo=1&childGroupNo=11,문화·예술 리뷰,음악
+2010&parentGroupNo=1&childGroupNo=12,문화·예술 리뷰,공연·전시·문화·예술
+2010&parentGroupNo=1&childGroupNo=13,문화·예술 리뷰,미술·디자인
+2010&parentGroupNo=1&childGroupNo=15,문화·예술 리뷰,드라마·방송
+2010&parentGroupNo=1&childGroupNo=16,문화·예술 리뷰,만화·애니
+2010&parentGroupNo=1&childGroupNo=17,문화·예술 리뷰,게임
+2010&parentGroupNo=2&childGroupNo=18,여행·레저·지역,여행
+2010&parentGroupNo=2&childGroupNo=19,여행·레저·지역,캠핑
+2010&parentGroupNo=2&childGroupNo=20,여행·레저·지역,등산·낚시·레저
+2010&parentGroupNo=2&childGroupNo=21,여행·레저·지역,지역·해외생활
+2010&parentGroupNo=3&childGroupNo=22,맛집·식도락,맛집
+2010&parentGroupNo=3&childGroupNo=23,맛집·식도락,와인-술
+2010&parentGroupNo=3&childGroupNo=24,맛집·식도락,차·커피·디저트
+2010&parentGroupNo=4&childGroupNo=25,사진·창작·수집,사진
+2010&parentGroupNo=4&childGroupNo=26,사진·창작·수집,웹툰·페인팅·일러스트
+2010&parentGroupNo=4&childGroupNo=28,사진·창작·수집,자필문학·에세이
+2010&parentGroupNo=4&childGroupNo=29,사진·창작·수집,토이·모형·수집
+2010&parentGroupNo=5&childGroupNo=30,IT·스포츠·자동차,IT·웹·프로그램
+2010&parentGroupNo=5&childGroupNo=32,IT·스포츠·자동차,스포츠
+2010&parentGroupNo=5&childGroupNo=33,IT·스포츠·자동차,자동차
+2010&parentGroupNo=5&childGroupNo=34,IT·스포츠·자동차,철도·항공·교통
+2010&parentGroupNo=5&childGroupNo=35,IT·스포츠·자동차,음향·영상
+2010&parentGroupNo=6&childGroupNo=36,학술·시사·경제·교육,시사-인문-경제
+2010&parentGroupNo=6&childGroupNo=38,학술·시사·경제·교육,교육·외국어
+2010&parentGroupNo=6&childGroupNo=39,학술·시사·경제·교육,과학·자연관찰
+2010&parentGroupNo=7&childGroupNo=40,일상·육아·자연,일상
+2010&parentGroupNo=7&childGroupNo=41,일상·육아·자연,육아
+2010&parentGroupNo=7&childGroupNo=42,일상·육아·자연,애완·반려동물
+2010&parentGroupNo=7&childGroupNo=43,일상·육아·자연,원예·재배
+2010&parentGroupNo=8&childGroupNo=44,요리·인테리어·DIY·뷰티,요리
+2010&parentGroupNo=8&childGroupNo=45,요리·인테리어·DIY·뷰티,가구·인테리어
+2010&parentGroupNo=8&childGroupNo=46,요리·인테리어·DIY·뷰티,생활공예
+2010&parentGroupNo=8&childGroupNo=47,요리·인테리어·DIY·뷰티,패션·뷰티
+2011&parentGroupNo=1&childGroupNo=9,문화·예술 리뷰,책
+2011&parentGroupNo=1&childGroupNo=10,문화·예술 리뷰,영화
+2011&parentGroupNo=1&childGroupNo=11,문화·예술 리뷰,음악
+2011&parentGroupNo=1&childGroupNo=12,문화·예술 리뷰,공연·전시·문화·예술
+2011&parentGroupNo=1&childGroupNo=13,문화·예술 리뷰,미술·디자인
+2011&parentGroupNo=1&childGroupNo=15,문화·예술 리뷰,드라마·방송
+2011&parentGroupNo=1&childGroupNo=16,문화·예술 리뷰,만화·애니
+2011&parentGroupNo=1&childGroupNo=17,문화·예술 리뷰,게임
+2011&parentGroupNo=2&childGroupNo=18,여행·레저·지역,여행
+2011&parentGroupNo=2&childGroupNo=19,여행·레저·지역,캠핑
+2011&parentGroupNo=2&childGroupNo=20,여행·레저·지역,등산·낚시·레저
+2011&parentGroupNo=2&childGroupNo=21,여행·레저·지역,지역·해외생활
+2011&parentGroupNo=3&childGroupNo=22,맛집·식도락,맛집
+2011&parentGroupNo=3&childGroupNo=23,맛집·식도락,와인-술
+2011&parentGroupNo=3&childGroupNo=24,맛집·식도락,차·커피·디저트
+2011&parentGroupNo=4&childGroupNo=25,사진·창작·수집,사진
+2011&parentGroupNo=4&childGroupNo=26,사진·창작·수집,웹툰·페인팅·일러스트
+2011&parentGroupNo=4&childGroupNo=28,사진·창작·수집,자필문학·에세이
+2011&parentGroupNo=4&childGroupNo=29,사진·창작·수집,토이·모형·수집
+2011&parentGroupNo=5&childGroupNo=30,IT·스포츠·자동차,IT·웹·프로그램
+2011&parentGroupNo=5&childGroupNo=32,IT·스포츠·자동차,스포츠
+2011&parentGroupNo=5&childGroupNo=33,IT·스포츠·자동차,자동차
+2011&parentGroupNo=5&childGroupNo=34,IT·스포츠·자동차,철도·항공·교통
+2011&parentGroupNo=5&childGroupNo=35,IT·스포츠·자동차,음향·영상
+2011&parentGroupNo=6&childGroupNo=36,학술·시사·경제·교육,시사-인문-경제
+2011&parentGroupNo=6&childGroupNo=38,학술·시사·경제·교육,교육·외국어
+2011&parentGroupNo=6&childGroupNo=39,학술·시사·경제·교육,과학·자연관찰
+2011&parentGroupNo=7&childGroupNo=40,일상·육아·자연,일상
+2011&parentGroupNo=7&childGroupNo=41,일상·육아·자연,육아
+2011&parentGroupNo=7&childGroupNo=42,일상·육아·자연,애완·반려동물
+2011&parentGroupNo=7&childGroupNo=43,일상·육아·자연,원예·재배
+2011&parentGroupNo=8&childGroupNo=44,요리·인테리어·DIY·뷰티,요리
+2011&parentGroupNo=8&childGroupNo=45,요리·인테리어·DIY·뷰티,가구·인테리어
+2011&parentGroupNo=8&childGroupNo=46,요리·인테리어·DIY·뷰티,생활공예
+2011&parentGroupNo=8&childGroupNo=47,요리·인테리어·DIY·뷰티,패션·뷰티
+2012&parentGroupNo=1&childGroupNo=9,문화·예술 리뷰,책
+2012&parentGroupNo=1&childGroupNo=10,문화·예술 리뷰,영화
+2012&parentGroupNo=1&childGroupNo=11,문화·예술 리뷰,음악
+2012&parentGroupNo=1&childGroupNo=12,문화·예술 리뷰,공연·전시·문화·예술
+2012&parentGroupNo=1&childGroupNo=13,문화·예술 리뷰,미술·디자인
+2012&parentGroupNo=1&childGroupNo=15,문화·예술 리뷰,드라마·방송
+2012&parentGroupNo=1&childGroupNo=16,문화·예술 리뷰,만화·애니
+2012&parentGroupNo=1&childGroupNo=17,문화·예술 리뷰,게임
+2012&parentGroupNo=2&childGroupNo=18,여행·레저·지역,여행
+2012&parentGroupNo=2&childGroupNo=19,여행·레저·지역,캠핑
+2012&parentGroupNo=2&childGroupNo=20,여행·레저·지역,등산·낚시·레저
+2012&parentGroupNo=2&childGroupNo=21,여행·레저·지역,지역·해외생활
+2012&parentGroupNo=3&childGroupNo=22,맛집·식도락,맛집
+2012&parentGroupNo=3&childGroupNo=23,맛집·식도락,와인-술
+2012&parentGroupNo=3&childGroupNo=24,맛집·식도락,차·커피·디저트
+2012&parentGroupNo=4&childGroupNo=25,사진·창작·수집,사진
+2012&parentGroupNo=4&childGroupNo=26,사진·창작·수집,웹툰·페인팅·일러스트
+2012&parentGroupNo=4&childGroupNo=28,사진·창작·수집,자필문학·에세이
+2012&parentGroupNo=4&childGroupNo=29,사진·창작·수집,토이·모형·수집
+2012&parentGroupNo=5&childGroupNo=30,IT·스포츠·자동차,IT·웹·프로그램
+2012&parentGroupNo=5&childGroupNo=32,IT·스포츠·자동차,스포츠
+2012&parentGroupNo=5&childGroupNo=33,IT·스포츠·자동차,자동차
+2012&parentGroupNo=5&childGroupNo=34,IT·스포츠·자동차,철도·항공·교통
+2012&parentGroupNo=5&childGroupNo=35,IT·스포츠·자동차,음향·영상
+2012&parentGroupNo=6&childGroupNo=36,학술·시사·경제·교육,시사-인문-경제
+2012&parentGroupNo=6&childGroupNo=38,학술·시사·경제·교육,교육·외국어
+2012&parentGroupNo=6&childGroupNo=39,학술·시사·경제·교육,과학·자연관찰
+2012&parentGroupNo=7&childGroupNo=40,일상·육아·자연,일상
+2012&parentGroupNo=7&childGroupNo=41,일상·육아·자연,육아
+2012&parentGroupNo=7&childGroupNo=42,일상·육아·자연,애완·반려동물
+2012&parentGroupNo=7&childGroupNo=43,일상·육아·자연,원예·재배
+2012&parentGroupNo=8&childGroupNo=44,요리·인테리어·DIY·뷰티,요리
+2012&parentGroupNo=8&childGroupNo=45,요리·인테리어·DIY·뷰티,가구·인테리어
+2012&parentGroupNo=8&childGroupNo=46,요리·인테리어·DIY·뷰티,생활공예
+2012&parentGroupNo=8&childGroupNo=47,요리·인테리어·DIY·뷰티,패션·뷰티
+2013&parentGroupNo=1&childGroupNo=9,문화·예술 리뷰,책
+2013&parentGroupNo=1&childGroupNo=10,문화·예술 리뷰,영화
+2013&parentGroupNo=1&childGroupNo=11,문화·예술 리뷰,음악
+2013&parentGroupNo=1&childGroupNo=12,문화·예술 리뷰,공연·전시·문화·예술
+2013&parentGroupNo=1&childGroupNo=13,문화·예술 리뷰,미술·디자인
+2013&parentGroupNo=1&childGroupNo=15,문화·예술 리뷰,드라마·방송
+2013&parentGroupNo=1&childGroupNo=16,문화·예술 리뷰,만화·애니
+2013&parentGroupNo=1&childGroupNo=17,문화·예술 리뷰,게임
+2013&parentGroupNo=2&childGroupNo=18,여행·레저·지역,여행
+2013&parentGroupNo=2&childGroupNo=19,여행·레저·지역,캠핑
+2013&parentGroupNo=2&childGroupNo=20,여행·레저·지역,등산·낚시·레저
+2013&parentGroupNo=2&childGroupNo=21,여행·레저·지역,지역·해외생활
+2013&parentGroupNo=3&childGroupNo=22,맛집·식도락,맛집
+2013&parentGroupNo=3&childGroupNo=23,맛집·식도락,와인-술
+2013&parentGroupNo=3&childGroupNo=24,맛집·식도락,차·커피·디저트
+2013&parentGroupNo=4&childGroupNo=25,사진·창작·수집,사진
+2013&parentGroupNo=4&childGroupNo=26,사진·창작·수집,웹툰·페인팅·일러스트
+2013&parentGroupNo=4&childGroupNo=28,사진·창작·수집,자필문학·에세이
+2013&parentGroupNo=4&childGroupNo=29,사진·창작·수집,토이·모형·수집
+2013&parentGroupNo=5&childGroupNo=30,IT·스포츠·자동차,IT·웹·프로그램
+2013&parentGroupNo=5&childGroupNo=32,IT·스포츠·자동차,스포츠
+2013&parentGroupNo=5&childGroupNo=33,IT·스포츠·자동차,자동차
+2013&parentGroupNo=5&childGroupNo=34,IT·스포츠·자동차,철도·항공·교통
+2013&parentGroupNo=5&childGroupNo=35,IT·스포츠·자동차,음향·영상
+2013&parentGroupNo=6&childGroupNo=36,학술·시사·경제·교육,시사-인문-경제
+2013&parentGroupNo=6&childGroupNo=38,학술·시사·경제·교육,교육·외국어
+2013&parentGroupNo=6&childGroupNo=39,학술·시사·경제·교육,과학·자연관찰
+2013&parentGroupNo=7&childGroupNo=40,일상·육아·자연,일상
+2013&parentGroupNo=7&childGroupNo=41,일상·육아·자연,육아
+2013&parentGroupNo=7&childGroupNo=42,일상·육아·자연,애완·반려동물
+2013&parentGroupNo=7&childGroupNo=43,일상·육아·자연,원예·재배
+2013&parentGroupNo=8&childGroupNo=44,요리·인테리어·DIY·뷰티,요리
+2013&parentGroupNo=8&childGroupNo=45,요리·인테리어·DIY·뷰티,가구·인테리어
+2013&parentGroupNo=8&childGroupNo=46,요리·인테리어·DIY·뷰티,생활공예
+2013&parentGroupNo=8&childGroupNo=47,요리·인테리어·DIY·뷰티,패션·뷰티
+2014&parentGroupNo=1&childGroupNo=9,문화·예술 리뷰,책
+2014&parentGroupNo=1&childGroupNo=10,문화·예술 리뷰,영화
+2014&parentGroupNo=1&childGroupNo=11,문화·예술 리뷰,음악
+2014&parentGroupNo=1&childGroupNo=12,문화·예술 리뷰,공연·전시·문화·예술
+2014&parentGroupNo=1&childGroupNo=13,문화·예술 리뷰,미술·디자인
+2014&parentGroupNo=1&childGroupNo=15,문화·예술 리뷰,드라마·방송
+2014&parentGroupNo=1&childGroupNo=16,문화·예술 리뷰,만화·애니
+2014&parentGroupNo=1&childGroupNo=17,문화·예술 리뷰,게임
+2014&parentGroupNo=2&childGroupNo=18,여행·레저·지역,여행
+2014&parentGroupNo=2&childGroupNo=19,여행·레저·지역,캠핑
+2014&parentGroupNo=2&childGroupNo=20,여행·레저·지역,등산·낚시·레저
+2014&parentGroupNo=2&childGroupNo=21,여행·레저·지역,지역·해외생활
+2014&parentGroupNo=3&childGroupNo=22,맛집·식도락,맛집
+2014&parentGroupNo=3&childGroupNo=23,맛집·식도락,와인-술
+2014&parentGroupNo=3&childGroupNo=24,맛집·식도락,차·커피·디저트
+2014&parentGroupNo=4&childGroupNo=25,사진·창작·수집,사진
+2014&parentGroupNo=4&childGroupNo=26,사진·창작·수집,웹툰·페인팅·일러스트
+2014&parentGroupNo=4&childGroupNo=28,사진·창작·수집,자필문학·에세이
+2014&parentGroupNo=4&childGroupNo=29,사진·창작·수집,토이·모형·수집
+2014&parentGroupNo=5&childGroupNo=30,IT·스포츠·자동차,IT·웹·프로그램
+2014&parentGroupNo=5&childGroupNo=32,IT·스포츠·자동차,스포츠
+2014&parentGroupNo=5&childGroupNo=33,IT·스포츠·자동차,자동차
+2014&parentGroupNo=5&childGroupNo=34,IT·스포츠·자동차,철도·항공·교통
+2014&parentGroupNo=5&childGroupNo=35,IT·스포츠·자동차,음향·영상
+2014&parentGroupNo=6&childGroupNo=36,학술·시사·경제·교육,시사-인문-경제
+2014&parentGroupNo=6&childGroupNo=38,학술·시사·경제·교육,교육·외국어
+2014&parentGroupNo=6&childGroupNo=39,학술·시사·경제·교육,과학·자연관찰
+2014&parentGroupNo=7&childGroupNo=40,일상·육아·자연,일상
+2014&parentGroupNo=7&childGroupNo=41,일상·육아·자연,육아
+2014&parentGroupNo=7&childGroupNo=42,일상·육아·자연,애완·반려동물
+2014&parentGroupNo=7&childGroupNo=43,일상·육아·자연,원예·재배
+2014&parentGroupNo=8&childGroupNo=44,요리·인테리어·DIY·뷰티,요리
+2014&parentGroupNo=8&childGroupNo=45,요리·인테리어·DIY·뷰티,가구·인테리어
+2014&parentGroupNo=8&childGroupNo=46,요리·인테리어·DIY·뷰티,생활공예
+2014&parentGroupNo=8&childGroupNo=47,요리·인테리어·DIY·뷰티,패션·뷰티
